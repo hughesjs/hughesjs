@@ -25,6 +25,19 @@
 </details>
 
 <details>
+  <summary>💣 My Research</summary>
+<div>
+<samp>
+<h2 align="center">At What Point Does a Scientist Become "Mad"?</h2>
+ <p align="center">
+  Well... It's early days still   
+ </p>
+
+ </samp>
+</div>
+</details>
+
+<details>
   <summary>📎 My Github</summary>
 <div>
 <samp>
@@ -69,7 +82,7 @@
         </p>
 </details>
     <details open>
-  <summary><h3>stasistic</h3></summary>
+  <summary><h3>Contributions</h3></summary>
         <p align="center">
           <a href="https://github.com/hughesjs/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hughesjs&show_icons=true&theme=gruvbox&hide_border=true" />
