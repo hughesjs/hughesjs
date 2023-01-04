@@ -1,10 +1,15 @@
 <div align="center">
 <h1 align="center">Hi, I'm James</h1>
 <h4 align="center">I'm a technical lead, a postgraduate researcher, a massive nerd, and an ardent defender of the Oxford comma.</h4>
+  <a align="center" href="https://stackoverflow.com/users/4700841/scottishtapwater"><img src="https://stackoverflow.com/users/flair/4700841.png?theme=dark" width="208" height="58" alt="profile for ScottishTapWater at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ScottishTapWater at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </div>
 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
+</div>
+
+<div>
+
 </div>
 
 -----
